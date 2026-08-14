@@ -20,7 +20,7 @@ except ImportError:
 console = Console()
 
 # Konfigurasi API
-API_KEY = "sk-qwen-576eb16ed68e26586807edaac7bf80bf0faddf446768b29a"
+API_KEY = "key"
 BASE_URL = "https://autoapp.biz.id/v1"
 
 # Setup Client
